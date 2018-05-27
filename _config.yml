@@ -60,9 +60,9 @@ favicon: /favicon.ico
 email: lxchuan12@163.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
-color: '#3D95D5'
-#color: '#3F51B5' #默认使用
-#color: '#02A1E6'
+# color: '#3D95D5'
+# color: '#3F51B5' #默认使用
+# color: '#02A1E6'
 
 # 页面标题
 tags_title: Tags
